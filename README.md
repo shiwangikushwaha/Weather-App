@@ -10,3 +10,9 @@ Dynamic Backgrounds: The app adapts its appearance based on current weather cond
 # Tech:
 html,css,javascript
 
+
+
+
+
+https://github.com/user-attachments/assets/a24ea15c-4aa7-4e89-b161-80fdeacd9e09
+
